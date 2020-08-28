@@ -1,4 +1,5 @@
 // array of questions for user
+var inquirer = require('inquirer');
 const questions = [
 
 

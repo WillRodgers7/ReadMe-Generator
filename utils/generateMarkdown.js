@@ -37,20 +37,21 @@ function generateMarkdown(data) {
 
 
   return `# ${data.title}
-## Title
-${data.title}
+
+## Licence
+${badge}
 ## Discription
 ${data.describe}
 ## Installation
 ${data.install}
 ## Usage
 ${data.usage}
-## Licence
-${badge}
+## Credits
+${data.test}
 ## Credits
 ${data.contribute}
-## Contact
-${data.email}
+## Questions
+${data.github.email}
 
 
 

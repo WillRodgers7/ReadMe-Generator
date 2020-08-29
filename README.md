@@ -2,7 +2,7 @@
  # good read me
 
 ## Discription
-creates a read me
+a read me generator
 ## Installation
 node, inquirer
 ## Usage
@@ -10,9 +10,9 @@ creating a readme.md
 ## Tests
 none
 ## Credits
-will sally bob
+will, bob ,sally
 ## Questions
-willrodgers7</br>
+<https://github.com/WillRodgers7>WillRodgers7</br>
 will@will.com
 
 

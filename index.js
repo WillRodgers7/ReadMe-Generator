@@ -29,11 +29,11 @@ const questions = [
             name: "usage",
             message: "What is is your project used for?"
         },
-        {
-            type: "input",
-            name: "licence",
-            message: "What licences are needed to run your project?"
-        },
+        // {
+        //     type: "input",
+        //     name: "licence",
+        //     message: "What licences are needed to run your project?"
+        // },
         {
             type: "input",
             name: "contribute",

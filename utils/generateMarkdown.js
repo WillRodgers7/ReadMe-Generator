@@ -33,7 +33,7 @@ function licence(licence) {
 
 // function to generate markdown for README
 function generateMarkdown(data) {
-  const badge = licence(data.licenece)
+  const badge = licence(data.license)
 
 
   return `${badge}
@@ -50,7 +50,7 @@ ${data.test}
 ## Credits
 ${data.contribute}
 ## Questions
-${data.github}
+${data.github}</br>
 ${data.email}
 
 

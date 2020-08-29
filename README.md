@@ -1,19 +1,19 @@
-![githublicence](https://img.shields.io/badge/None-Licence-lightgrey)
- # Good Read me
+![githublicence](https://img.shields.io/badge/MIT-Licence-green)
+ # good read me
 
 ## Discription
-A dynamically generated read me for professional web developers
+creates a read me
 ## Installation
-Node, Inquirer
+node, inquirer
 ## Usage
-Web Development
+creating a readme.md
 ## Tests
-None
+none
 ## Credits
-Will, Bob, Sally
+will sally bob
 ## Questions
-WillRodgers7
-Will@Will.com
+willrodgers7</br>
+will@will.com
 
 
 

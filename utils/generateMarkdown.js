@@ -36,10 +36,7 @@ function generateMarkdown(data) {
   const badge = licence(data.licenece)
 
 
-  return `
-## Licence
-${badge}
-
+  return `${badge}
  # ${data.title}
 
 ## Discription
@@ -53,7 +50,8 @@ ${data.test}
 ## Credits
 ${data.contribute}
 ## Questions
-${data.github.email}
+${data.github}
+${data.email}
 
 
 

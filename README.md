@@ -1,21 +1,19 @@
-
-## Licence
 ![githublicence](https://img.shields.io/badge/None-Licence-lightgrey)
-
  # Good Read me
 
 ## Discription
-A pplication that generates a read me
+A dynamically generated read me for professional web developers
 ## Installation
-node, inquirer
+Node, Inquirer
 ## Usage
-to generate a read me for developers
+Web Development
 ## Tests
-none
+None
 ## Credits
-Will, Bob, Tammy
+Will, Bob, Sally
 ## Questions
-undefined
+WillRodgers7
+Will@Will.com
 
 
 

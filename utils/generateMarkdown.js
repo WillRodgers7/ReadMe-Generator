@@ -36,17 +36,19 @@ function generateMarkdown(data) {
   const badge = licence(data.licenece)
 
 
-  return `# ${data.title}
-
+  return `
 ## Licence
 ${badge}
+
+ # ${data.title}
+
 ## Discription
 ${data.describe}
 ## Installation
 ${data.install}
 ## Usage
 ${data.usage}
-## Credits
+## Tests
 ${data.test}
 ## Credits
 ${data.contribute}

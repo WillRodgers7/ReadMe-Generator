@@ -1,5 +1,8 @@
 // array of questions for user
-var inquirer = require('inquirer');
+const generateMarkdown = require("./utils/generateMarkdown");
+const fs =  require("fs");
+const path = require("path");
+const inquirer = require('inquirer');
 const questions = [
 
 
@@ -15,11 +18,7 @@ const questions = [
             name: "describe",
             message: "Please describe your project in one sentence?"
         },
-        {
-            type: "input",
-            name: "contents",
-            message: "Please list your table of contents?"
-        },
+       
         {
             type: "input",
             name: "install",
@@ -60,6 +59,7 @@ const questions = [
 // function to write README file
 function writeToFile(fileName, data) {
 
+    return  fs.writeFileSync (path.join (process.cwd (), fileName), data);
 
 }
 
@@ -70,6 +70,7 @@ function init()
     inquirer.prompt(questions)
     .then(inquirerResponses =>{
     console.log("inquirerResponses: ", inquirerResponses)
+    writeToFile("README.md", generateMarkdown ({...inquirerResponses}));
 
     });
 };

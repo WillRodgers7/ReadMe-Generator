@@ -1,11 +1,19 @@
-# Good Read me
+# read me
 ## Title
-Good Read me
+read me
 ## Discription
-It generates a user readme
+read me generator
 ## Installation
-Node
+node
 ## Usage
-to generate a readme
+class
 ## Licence
-![githublicence](https://img.shields.io/badge/MIT-Licence-green)
+![githublicence](https://img.shields.io/badge/None-Licence-lightgrey)
+## Credits
+will
+## Contact
+will@will.com
+
+
+
+

@@ -33,7 +33,9 @@ function licence(licence) {
 
 // function to generate markdown for README
 function generateMarkdown(data) {
-  
+  const badge = licence(data.licenece)
+
+
   return `# ${data.title}
 ## Title
 ${data.title}
@@ -44,7 +46,7 @@ ${data.install}
 ## Usage
 ${data.usage}
 ## Licence
-${licence(data.licence)}
+${badge}
 ## Credits
 ${data.contribute}
 ## Contact

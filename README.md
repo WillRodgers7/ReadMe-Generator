@@ -1,18 +1,19 @@
-# read me
-## Title
-read me
-## Discription
-read me generator
-## Installation
-node
-## Usage
-class
+# Good Read me Generator
+
 ## Licence
 ![githublicence](https://img.shields.io/badge/None-Licence-lightgrey)
+## Discription
+This is a dynamic application that builds the perfect read me.
+## Installation
+node,inquirer
+## Usage
+To assist Developers with their readme.md's
 ## Credits
-will
-## Contact
-will@will.com
+none
+## Credits
+Will, Bob, Sally
+## Questions
+undefined
 
 
 

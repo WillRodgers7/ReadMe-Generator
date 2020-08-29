@@ -35,10 +35,24 @@ function licence(licence) {
 function generateMarkdown(data) {
   
   return `# ${data.title}
+## Title
+${data.title}
 ## Discription
 ${data.describe}
+## Installation
+${data.install}
+## Usage
+${data.usage}
 ## Licence
 ${licence(data.licence)}
+## Credits
+${data.contribute}
+## Contact
+${data.email}
+
+
+
+
 `;
 }
 

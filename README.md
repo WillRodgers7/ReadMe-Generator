@@ -1,17 +1,19 @@
-# Good Read me Generator
 
 ## Licence
 ![githublicence](https://img.shields.io/badge/None-Licence-lightgrey)
+
+ # Good Read me
+
 ## Discription
-This is a dynamic application that builds the perfect read me.
+A pplication that generates a read me
 ## Installation
-node,inquirer
+node, inquirer
 ## Usage
-To assist Developers with their readme.md's
-## Credits
+to generate a read me for developers
+## Tests
 none
 ## Credits
-Will, Bob, Sally
+Will, Bob, Tammy
 ## Questions
 undefined
 

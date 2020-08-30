@@ -50,7 +50,7 @@ ${data.test}
 ## Credits
 ${data.contribute}
 ## Questions
-<https://github.com/WillRodgers7>${data.github}</br>
+<https://github.com/${data.github}></br>
 ${data.email}
 
 

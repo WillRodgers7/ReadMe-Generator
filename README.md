@@ -1,18 +1,18 @@
-![githublicence](https://img.shields.io/badge/MIT-Licence-green)
- # good read me
+![githublicence](https://img.shields.io/badge/APACHE%202.0-Licence-blue)
+ # Good Read me
 
 ## Discription
-a read me generator
+creates a read me
 ## Installation
 node, inquirer
 ## Usage
-creating a readme.md
+creates a read me
 ## Tests
 none
 ## Credits
-will, bob ,sally
+will bob sally
 ## Questions
-<https://github.com/WillRodgers7>WillRodgers7</br>
+<https://github.com/Willrodgers7></br>
 will@will.com
 
 

@@ -39,7 +39,7 @@ function generateMarkdown(data) {
   return `${badge}
  # ${data.title}
 
-## Discription
+
 ${data.describe}
 ## Installation
 ${data.install}

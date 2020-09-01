@@ -1,6 +1,6 @@
-![githublicence](https://img.shields.io/badge/None-Licence-lightgrey)
- # Code-Quiz
- This is a fun and action packed quiz you can take about coding. With this application you will be asked questions and given answers to select from in a multiple choice format, but be quick you have 60 seconds to finish! Enjoy and have fun!
+![githublicence](https://img.shields.io/badge/MIT-Licence-green)
+ # Read Me Generator
+ We created an application that dynamically allows web developers to generate a read me just by answering a few questions
 
  ## Table of Contents 
 
@@ -17,9 +17,9 @@
  * [Questions](#questions)
 
 ## Installation
-A Web browser and Visual Studio Code
+Node and Inquirer Npm
 ## Usage
-To help aspiring Web developers with thier codeing 
+Web development with Node
 ## Tests
 None
 ## Credits

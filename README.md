@@ -1,6 +1,6 @@
-![githublicence](https://img.shields.io/badge/MIT-Licence-green)
+![githublicence](https://img.shields.io/badge/APACHE%202.0-Licence-blue)
  # Read Me Generator
- We created an application that allows web developers to dynamically generate a read me by just answering a few quick questions.
+ We created an application that allows web developers to dynamically generate a read me by just answering a few quick questions
 
  ## Table of Contents 
 
@@ -19,7 +19,7 @@
 ## Installation
 Node and Inquirer NPM
 ## Usage
-Web Development With Node
+Web Development
 ## Tests
 None
 ## Credits

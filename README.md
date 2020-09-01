@@ -1,5 +1,6 @@
 ![githublicence](https://img.shields.io/badge/MIT-Licence-green)
- # read me generator
+ # Good Read Me
+ Read me generator
 
  ## Table of Contents 
 
@@ -11,12 +12,10 @@
  
  * [Tests](#tests)
  
- * [Contributing](#contributing)
+ * [Contributing](#contribute)
  
  * [Questions](#questions)
 
-
-generates a read me
 ## Installation
 node, inquirer
 ## Usage
@@ -24,10 +23,10 @@ web development
 ## Tests
 none
 ## Credits
-bill, bob, sally
+bill, bob ,sally
 ## Questions
-<https://github.com/Willrodgers7></br>
-willrodgers@will.com
+<https://github.com/WillRodgers7></br>
+will@will.com
 
 
 

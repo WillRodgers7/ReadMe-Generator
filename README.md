@@ -1,6 +1,6 @@
 ![githublicence](https://img.shields.io/badge/MIT-Licence-green)
- # Good Read Me
- Read me generator
+ # Read Me Generator
+ We created an application that allows web developers to dynamically generate a read me by just answering a few quick questions.
 
  ## Table of Contents 
 
@@ -17,16 +17,16 @@
  * [Questions](#questions)
 
 ## Installation
-node, inquirer
+Node and Inquirer NPM
 ## Usage
-web development
+Web Development With Node
 ## Tests
-none
+None
 ## Credits
-bill, bob ,sally
+Will Rodgers
 ## Questions
 <https://github.com/WillRodgers7></br>
-will@will.com
+WillRodgers.e.s@gmail.com
 
 
 

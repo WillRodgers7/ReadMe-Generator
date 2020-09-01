@@ -1,6 +1,6 @@
-![githublicence](https://img.shields.io/badge/APACHE%202.0-Licence-blue)
- # Read Me Generator
- We created an application that allows web developers to dynamically generate a read me by just answering a few quick questions
+![githublicence](https://img.shields.io/badge/None-Licence-lightgrey)
+ # Code-Quiz
+ This is a fun and action packed quiz you can take about coding. With this application you will be asked questions and given answers to select from in a multiple choice format, but be quick you have 60 seconds to finish! Enjoy and have fun!
 
  ## Table of Contents 
 
@@ -17,9 +17,9 @@
  * [Questions](#questions)
 
 ## Installation
-Node and Inquirer NPM
+A Web browser and Visual Studio Code
 ## Usage
-Web Development
+To help aspiring Web developers with thier codeing 
 ## Tests
 None
 ## Credits

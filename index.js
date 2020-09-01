@@ -86,10 +86,10 @@ function init()
 };
 
 // function to initilize an example.md
-fs.writeFile('Example.md', 'This is my text', function (err) {
-    if (err) throw err;
-    console.log('Results Received');
-    });
+// fs.writeFile('Example.md', 'This is my text', function (err) {
+//     if (err) throw err;
+//     console.log('Results Received');
+//     });
     
 
 // function call to initialize program
